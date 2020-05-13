@@ -1,0 +1,12 @@
+.analytics
+.metadata/
+.sdk/
+IDE.log
+RemoteSystemsTempFiles/
+zybo-base/.cproject
+zybo-base/.project
+zybo-base/Debug/
+zybo-base/_ide/
+zybo-base/zybo-base.prj
+zybo-base_system/
+zybo_base_platform/
